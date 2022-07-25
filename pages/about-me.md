@@ -10,4 +10,5 @@
 -->
 
 I'm a quadralingual data scientist living in Tokyo. 
-I like machine learning, generative art/music, and crypto/blockchain. 
+I like machine learning, generative art/music, and crypto/blockchain.  Yes I do.
+
