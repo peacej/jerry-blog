@@ -1,0 +1,4 @@
+Sitemap: https://jerrychi.com/sitemapindex.xml
+
+User-Agent: *
+Host: jerrychi.com
